@@ -1,0 +1,5 @@
+shamefullyHoist: true
+packages:
+  - "packages/*"
+allowBuilds:
+  esbuild: set this to true or false
